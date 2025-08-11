@@ -2,8 +2,11 @@ fastapi
 uvicorn
 sentence-transformers
 faiss-cpu
+numpy
+pymupdf
+python-docx
+beautifulsoup4
 python-dotenv
 requests
 pydantic
-
-
+torch
