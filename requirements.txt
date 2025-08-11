@@ -1,8 +1,9 @@
 fastapi
 uvicorn
 sentence-transformers
-faiss-gpu
+faiss-cpu
 torch==2.1.0+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
 python-dotenv
 requests
 pydantic
+
